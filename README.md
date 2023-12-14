@@ -27,7 +27,9 @@
 - Auto Rename Tag
 - Highlight Matching Tag
 - Console Ninja
-- ES7+ React/Redux/React-Native snippets - 用 `rfc` 快速创建 React Components 的结构
+- ES7+ React/Redux/React-Native snippets
+  - `rafce` - 快速创建 arrow function with export
+  - `rfce` - 快速创建 regular function with export
 - Image preview
 - indent-rainbow
 - ESLint
