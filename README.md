@@ -17,3 +17,19 @@
 
 ## Enviroment
 - [Setting GitHub SSH Key](https://cuttontail.blog/blog/how-to-add-ssh-key-to-github-on-mac/)
+
+## VS Code Extension
+
+- One Dark Pro - 主题
+- vscode-icon-mac
+- Prettier
+- Markdown All In One
+- Auto Rename Tag
+- Highlight Matching Tag
+- Console Ninja
+- ES7+ React/Redux/React-Native snippets - 用 `rfc` 快速创建 React Components 的结构
+- Image preview
+- indent-rainbow
+- ESLint
+- Live Server
+- Tailwind CSS IntelliSense
