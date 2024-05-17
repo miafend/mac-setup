@@ -35,3 +35,7 @@
 - ESLint
 - Live Server
 - Tailwind CSS IntelliSense
+
+## Reference
+
+- [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube.com/watch?v=GK7zLYAXdDs)
