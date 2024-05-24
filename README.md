@@ -45,6 +45,7 @@
 - Auto Rename Tag
 - Highlight Matching Tag
 - Tailwind CSS IntelliSense
+- PostCSS Lanuage Support
 - ESLint
 - Pretty TypeScript Errors
 
