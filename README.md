@@ -1,12 +1,15 @@
-# Description
-短时间内经历了格式化电脑和换新电脑的情况，To save future me some trouble，决定把拿到新电脑后最基本要做的操作和要安装的软件都记录下来。
+# New Mac Starter
+
+> 我自己在全新 Mac 电脑上要配置的环境、安装的软件、插件等
 
 ## Applications
+
+- [Raycast](https://www.raycast.com/) - 软件启动器
 - [VS Code](https://code.visualstudio.com/) - 代码编辑器
-- [Notion](https://www.notion.so/desktop) - 笔记软件
 
 ## Chrome Extentions
 - [Auto Group Tabs](https://chrome.google.com/webstore/detail/auto-group-tabs/mnolhkkapjcaekdgopmfolekecfhgoob) - 标签页管理
+- [Wappalyzer](https://chromewebstore.google.com/detail/gppongmhjkpfnbhagpmjfkannfbllamg?) - 查看技术栈
 
 ## Tools
 （除了 **Homebrew** 外，其他工具都将使用 Homebrew 进行安装。）
@@ -20,21 +23,55 @@
 
 ## VS Code Extension
 
-- One Dark Pro - 主题
+### Theme
+
+- Tokyo Night (√)
+- One Dark Pro
+
+### Icon
+
+- Material Icon Theme (√)
 - vscode-icon-mac
+
+### Apperance & Format
+
 - Prettier
-- Markdown All In One
+- indent-rainbow
+- Even Better TOML
+- Front Matter CMS
+
+### HTML、CSS、JavaScritp & TypeScript
+
 - Auto Rename Tag
 - Highlight Matching Tag
-- Console Ninja
+- Tailwind CSS IntelliSense
+- ESLint
+- Pretty TypeScript Errors
+
+### React
 - ES7+ React/Redux/React-Native snippets
   - `rafce` - 快速创建 arrow function with export
   - `rfce` - 快速创建 regular function with export
+
+### Development
+
+- Console Ninja
+- Thunder Client
+
+### Git
+
+- GitLens
+
+### Markdown
+
+- Markdown All In One
+
+### Helper Tool
+
+- Code Spell Checker
 - Image preview
-- indent-rainbow
-- ESLint
 - Live Server
-- Tailwind CSS IntelliSense
+- Fontsize Shortcuts
 
 ## Reference
 
