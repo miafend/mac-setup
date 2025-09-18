@@ -1,4 +1,4 @@
-# New Mac Starter
+# MacBook Starter
 
 ## Applications
 
