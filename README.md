@@ -6,8 +6,9 @@
 - **代码编辑器**：[VS Code](https://code.visualstudio.com/)
 - **Arc浏览器**：[Arc Browser](https://arc.net/)
 - **代码管理器**: [1Password](https://1password.com/)
-- **邮件**：[Spark](https://sparkmailapp.com/)
+- **邮件管理**：[Spark](https://sparkmailapp.com/)
 - **Markdown文本编辑器**：[Typora](https://typora.io/)
+- **Mac 录屏**：[Screen Studio](https://screen.studio/)
 
 ## Chrome Extentions
 
