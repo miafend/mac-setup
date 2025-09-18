@@ -5,11 +5,15 @@
 - **软件启动器**：[Raycast](https://www.raycast.com/)
 - **代码编辑器**：[VS Code](https://code.visualstudio.com/)
 - **Arc浏览器**：[Arc Browser](https://arc.net/)
+- **代码管理器**: [1Password](https://1password.com/)
+- **邮件**：[Spark](https://sparkmailapp.com/)
+- **Markdown文本编辑器**：[Typora](https://typora.io/)
 
 ## Chrome Extentions
-- [Wappalyzer](https://chromewebstore.google.com/detail/gppongmhjkpfnbhagpmjfkannfbllamg?) - 查看网站使用的技术栈
 
-## Code
+- **查看网站使用的技术栈**：[Wappalyzer](https://chromewebstore.google.com/detail/gppongmhjkpfnbhagpmjfkannfbllamg?)
+
+## Code Enviroment
 - [Homebrew](https://brew.sh/) & [Homebrew Installation Guide](https://www.youtube.com/watch?v=IWJKRmFLn-g)
 - [Git](https://git-scm.com/) -  `brew install git`
 - [Node.js](https://nodejs.org/en) - `brew install node`
@@ -23,33 +27,28 @@
 - **主题**：Tokyo Night
 - **图标**：Material Icon Theme
 
-- Prettier
+- **代码格式化**：Prettier
 - indent-rainbow
-- Even Better TOML
-- Front Matter CMS
-
 - Auto Rename Tag
 - Highlight Matching Tag
+
 - Tailwind CSS IntelliSense
 - PostCSS Lanuage Support
 - ESLint
 - Pretty TypeScript Errors
+- ES7+ React/Redux/React-Native snippets
+  - `rafce` - 快速创建 arrow function with export
+  - `rfce` - 快速创建 regular function with export
 
-- React
-  - ES7+ React/Redux/React-Native snippets
-    - `rafce` - 快速创建 arrow function with export
-    - `rfce` - 快速创建 regular function with export
 - Console Ninja
 - Thunder Client
-
 - GitLens
-- Markdown All In One
 
+- Markdown All In One
 - Code Spell Checker
 - Image preview
 - Live Server
 - Fontsize Shortcuts
-
 ## Reference
 
 - [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube.com/watch?v=GK7zLYAXdDs)
