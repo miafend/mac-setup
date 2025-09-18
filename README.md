@@ -1,4 +1,4 @@
-# MacBook Starter
+# My Mac Setup
 
 ## Applications
 
