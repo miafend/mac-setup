@@ -68,6 +68,10 @@ brew install raycast
     # 5.
     pbcopy < ~/.ssh/id_ed25519.pub
     ```
+- 安装 Claude Code：
+  	```bash
+   	npm install -g @anthropic-ai/claude-code
+   	```
 
 ## Terminal
 
